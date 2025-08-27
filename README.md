@@ -54,6 +54,4 @@ Future Improvements
 - Continuous conversation without repeating wake word  
 - Offline mode with local LLMs  
 
----
 
-This project is part of my AI/ML and voice automation learning journey.
